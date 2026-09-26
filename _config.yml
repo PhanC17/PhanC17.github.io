@@ -4,7 +4,7 @@ plugins:
 
 title: Catherine Phan
 logo: /assets/img/logo.png
-description: "Github: PhanC17"
+description: [@PhanC17](github.com/PhanC17)
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
