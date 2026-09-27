@@ -3,7 +3,7 @@ plugins:
 - jekyll-remote-theme
 
 title: Catherine Phan
-logo: /assets/img/logo.png
+logo: logo.jpg
 description: Graduate student at CSUSM
 show_downloads: true
 google_analytics:
