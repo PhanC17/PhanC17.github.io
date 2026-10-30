@@ -1,3 +1,5 @@
+[← Home](phanc17.github.io)
+
 # The Making of this Site
 This site is an e-portfolio showcasing my work experience and past projects. The e-portfolio was created using GitHub pages and Jekyll pages theme. This page serves as a tutorial on how to to create a similar e-portfolio.
 
@@ -44,3 +46,5 @@ Go into the `_config.yml` to personalize the sidebar for yourself.
 
 # Remember to commit your changes to the repository
 Once you've made your changes, remember to commit and push the changes to the main branch of the repository. From there, you can go to the URL that the repository is named after to check that the site is how you want it to look. ![alt text](about_images/eport_site.png "E-Portfolio preview")
+
+[← Home](phanc17.github.io)
