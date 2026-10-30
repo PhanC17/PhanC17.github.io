@@ -1,4 +1,4 @@
-# Introduction
+# The Making of this Site
 This site is an e-portfolio showcasing my work experience and past projects. The e-portfolio was created using GitHub pages and Jekyll pages theme. This page serves as a tutorial on how to to create a similar e-portfolio.
 
 **IMPORTANT: Any changes you make for the site needs to be committed to the repository before it can be viewed on the website. The easiest way to quickly edit the files is to clone the repository onto your personal device through GitHub Desktop. Commits can then be made in the desktop app before being pushed onto the branch.**
