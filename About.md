@@ -28,7 +28,8 @@ The next step is to customize the appearance of the website. One of the easiest 
 This site used the Minimal theme, which can be found [here](https://github.com/pages-themes/minimal). The project contains all the base files needed to apply the theme to your site.  
 1. Download the project as a ZIP file.
 2. Unzip the files into the folder that houses your repository.
-     - This adds all the required files to integrate the theme into your website. Once these changes are commited, the website will take the appearance of the sample website, with the sample text as well.
+     - This adds all the required files to integrate the theme into your website. Once these changes are commited, the website will take the appearance of the sample website, with the sample text as well.  
+!(https://github.com/PhanC17/PhanC17.github.io/blob/main/about_images/minimal_site.png)
 ## Personalization
 3. Change the README.md and index.md files to apply them for your personal use. For my use, I changed the index.md to my resume, and the README.md to explain the site and add credit for the theme.
 4. Go into the `_config.yml` to personalize the sidebar for yourself.
