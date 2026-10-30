@@ -31,7 +31,7 @@ This site used the Minimal theme, which can be found [here](https://github.com/p
      - This adds all the required files to integrate the theme into your website. Once these changes are committed, the website will take the appearance of the sample website, with the sample text as well. ![alt text](https://github.com/PhanC17/PhanC17.github.io/blob/main/about_images/minimal_site.png "Minimal theme site preview")  
 
 ## Personalization
-3. Change the README.md and index.md files to apply them for your personal use. For my use, I changed the index.md to my resume, and the README.md to explain the site and add credit for the theme.  
+Change the README.md and index.md files to apply them for your personal use. For my use, I changed the index.md to my resume, and the README.md to explain the site and add credit for the theme.  
 
 #### README.md example  
 ![alt text](https://github.com/PhanC17/PhanC17.github.io/blob/main/about_images/minimal_readme.png "Minimal README") ![alt text](https://github.com/PhanC17/PhanC17.github.io/blob/main/about_images/eport_readme.png "E-Portfolio README")  
@@ -39,7 +39,7 @@ This site used the Minimal theme, which can be found [here](https://github.com/p
 #### Index.md example  
 ![alt text](https://github.com/PhanC17/PhanC17.github.io/blob/main/about_images/minimal_index.png "Minimal Index") ![alt text](https://github.com/PhanC17/PhanC17.github.io/blob/main/about_images/eport_index.png "E-portfolio Index")
 
-4. Go into the `_config.yml` to personalize the sidebar for yourself.  
+Go into the `_config.yml` to personalize the sidebar for yourself.  
  ![alt text](https://github.com/PhanC17/PhanC17.github.io/blob/main/about_images/minimal_config.png "Minimal _config.yml file") ![alt text](https://github.com/PhanC17/PhanC17.github.io/blob/main/about_images/eport_config.png "E-Portfolio _config.yml file")
 
 # Remember to commit your changes to the repository
