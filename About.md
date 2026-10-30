@@ -1,7 +1,7 @@
 # Introduction
 This site is an e-portfolio showcasing my work experience and past projects. The e-portfolio was created using GitHub pages and Jekyll pages theme. This page serves as a tutorial on how to to create a similar e-portfolio.
 
-**IMPORTANT: Any changes you make for the site needs to be commited to the repository before it can be viewed on the website. The easiest way to quickly edit the files is to clone the repository onto your personal device through GitHub Desktop. Commits can then be made in the desktop app before being pushed onto the branch.**
+**IMPORTANT: Any changes you make for the site needs to be committed to the repository before it can be viewed on the website. The easiest way to quickly edit the files is to clone the repository onto your personal device through GitHub Desktop. Commits can then be made in the desktop app before being pushed onto the branch.**
 
 # Creating the Website
 When creating a new repository for the website, name it your GitHub username with ".github.io" appended to the end. This allows GitHub to recognize the repository as a site directory and builds the page using the files within.  
@@ -28,8 +28,13 @@ The next step is to customize the appearance of the website. One of the easiest 
 This site used the Minimal theme, which can be found [here](https://github.com/pages-themes/minimal). The project contains all the base files needed to apply the theme to your site.  
 1. Download the project as a ZIP file.
 2. Unzip the files into the folder that houses your repository.
-     - This adds all the required files to integrate the theme into your website. Once these changes are commited, the website will take the appearance of the sample website, with the sample text as well.  
-!(https://github.com/PhanC17/PhanC17.github.io/blob/main/about_images/minimal_site.png)
+     - This adds all the required files to integrate the theme into your website. Once these changes are committed, the website will take the appearance of the sample website, with the sample text as well. ![alt text](https://github.com/PhanC17/PhanC17.github.io/blob/main/about_images/minimal_site.png "Minimal theme site preview")
 ## Personalization
-3. Change the README.md and index.md files to apply them for your personal use. For my use, I changed the index.md to my resume, and the README.md to explain the site and add credit for the theme.
-4. Go into the `_config.yml` to personalize the sidebar for yourself.
+3. Change the README.md and index.md files to apply them for your personal use. For my use, I changed the index.md to my resume, and the README.md to explain the site and add credit for the theme.  
+README.md example ![alt text](https://github.com/PhanC17/PhanC17.github.io/blob/main/about_images/minimal_readme.png "Minimal README") ![alt text](https://github.com/PhanC17/PhanC17.github.io/blob/main/about_images/eport_readme.png "E-Portfolio README")  
+Index.md example ![alt text](https://github.com/PhanC17/PhanC17.github.io/blob/main/about_images/minimal_index.png "Minimal Index") ![alt text](https://github.com/PhanC17/PhanC17.github.io/blob/main/about_images/eport_index.png "E-portfolio Index")
+4. Go into the `_config.yml` to personalize the sidebar for yourself.  
+ ![alt text](https://github.com/PhanC17/PhanC17.github.io/blob/main/about_images/minimal_config.png "Minimal _config.yml file") ![alt text](https://github.com/PhanC17/PhanC17.github.io/blob/main/about_images/eport_config.png "E-Portfolio _config.yml file")
+
+# Remember to commit your changes to the repository
+Once you've made your changes, remember to commit and push the changes to the main branch of the repository. From there, you can go to the URL that the repository is named after to check that the site is how you want it to look. ![alt text](https://github.com/PhanC17/PhanC17.github.io/blob/main/about_images/eport_site.png "E-Portfolio preview")
