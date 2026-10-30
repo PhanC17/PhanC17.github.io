@@ -34,7 +34,7 @@ This site used the Minimal theme, which can be found [here](https://github.com/p
 Change the README.md and index.md files to apply them for your personal use. For my use, I changed the index.md to my resume, and the README.md to explain the site and add credit for the theme.  
 
 #### README.md example  
-![alt text](https://github.com/PhanC17/PhanC17.github.io/blob/main/about_images/minimal_readme.png "Minimal README") ![alt text](https://github.com/PhanC17/PhanC17.github.io/blob/main/about_images/eport_readme.png "E-Portfolio README")  
+![alt text](about_images/eport_readme.png "Minimal README") ![alt text](https://github.com/PhanC17/PhanC17.github.io/blob/main/about_images/eport_readme.png "E-Portfolio README")  
 
 #### Index.md example  
 ![alt text](https://github.com/PhanC17/PhanC17.github.io/blob/main/about_images/minimal_index.png "Minimal Index") ![alt text](https://github.com/PhanC17/PhanC17.github.io/blob/main/about_images/eport_index.png "E-portfolio Index")
