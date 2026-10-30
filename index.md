@@ -5,7 +5,8 @@
 **Technical Skills** - Microsoft Word, Excel, and Powerpoint; Syspro  
 **Education** - BS (2023) in Human Biology from University of California - San Diego; MS (ongoing) in Business Analytics from California State University San Marcos
 
-[Projects](./Portfolio_Creation)
+## Projects
+[The Making of this Site](./Portfolio_Creation)
 
 ## Work Experience
 ### Salaried Work
